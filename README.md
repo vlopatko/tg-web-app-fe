@@ -1,1 +1,1 @@
-# tlgrm-web-app-fe
+# tg-web-app-fe
